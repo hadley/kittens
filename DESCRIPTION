@@ -1,11 +1,11 @@
 Package: kittens
-Title: What the Package Does (One Line, Title Case)
+Title: Show a cute kitten picture
 Version: 0.0.0.9000
 Authors@R: c(
     person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre")),
     person("RStudio", role = c("cph", "fnd"))
   )
-Description: What the package does (one paragraph).
+Description: Show a cute kitten picture
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
