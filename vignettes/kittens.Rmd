@@ -1,0 +1,29 @@
+---
+title: "kittens"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{kittens}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(kittens)
+```
+
+## knitr
+
+```{r}
+knitr::include_graphics("kittens.jpg")
+```
+
+## markdown
+
+![](kittens.jpg)
