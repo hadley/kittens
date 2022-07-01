@@ -15,3 +15,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/hadley/kittens
+BugReports: https://github.com/hadley/kittens/issues
